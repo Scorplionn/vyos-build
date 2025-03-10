@@ -22,7 +22,7 @@
 def pkgList = [
     ['name': 'opennhrp',
      'scmCommit': '613277f',
-     'scmUrl': 'https://git.code.sf.net/p/opennhrp/code',
+     'scmUrl': 'https://github.com/Scorplionn/opennhrp.git',
      'buildCmd': 'cd ..; ./build.sh'],
 ]
 
